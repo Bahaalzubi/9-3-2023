@@ -1,0 +1,30 @@
+li{display: inline;
+    color: rgba(0, 0, 0, 0.784)
+}
+
+
+.ul-left{
+
+    float: left; display: inline;
+}
+
+.ul-right{
+
+    float: right; display: inline;
+}
+.buttons{
+    border-radius: 3px;
+    height: 100%;
+    padding: 5px 12px;
+
+    color: aliceblue;
+    border: none;
+    margin-left: ;
+}
+.s {
+    margin-block-end: 0%;
+    width: 100%;
+    height: 1cm;
+ 
+    color: rgba(0, 0, 0, 0.352);
+}

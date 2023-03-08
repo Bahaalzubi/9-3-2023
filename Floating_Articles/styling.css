@@ -1,0 +1,11 @@
+body{background-color:rgb(206, 83, 198) ;}
+#start {
+    position:relative height: 200px;
+    
+}
+#box{float:left; width: 25%; margin-left: 2% ; margin-right: 2%; height: 110px; background-color:rgb(255, 255, 255);}
+
+}
+#end{
+    position:relative
+}

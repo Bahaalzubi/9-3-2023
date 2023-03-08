@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(189, 204, 155) ;
+}
+#main {
+    margin: auto;
+    width: 70%;
+    height: 20cm;
+}
+#title{background-color: rgb(183, 234, 66);
+height: 2cm;}
+.page {background-color: white; height: 19cm; width: 75%;}
+
+.side-container {
+    background-color: #0f989d;
+    width: 25%;
+    height: 658px;
+    padding: 20px;
+    border-left: 1px solid #ccc;
+    float: right;
+   
+    right: 0;
+}
+.footer {
+    background-color: #075c5f;
+    height: 2cm;
+    color: #fefefe;
+    text-align: center;
+margin: auto;
+}

@@ -1,0 +1,53 @@
+body{background-color: bisque;}
+
+
+
+
+.a {
+    background-color: white;
+    height: 5cm;
+    width: 20cm;
+    margin: 5px;
+    margin-top: 0;
+  
+    padding-top: 1px;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    border: solid black;
+    border-width: 2px 1px 2px 1px;
+
+    
+}
+.b {
+    background-color: white;
+    height: 5cm;
+    width: 20cm;
+    margin: 5px;
+    margin-top: 0;
+  
+    padding-top: 1px;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    border: solid black;
+    border-width: 2px 1px 2px 1px;
+    
+}
+.c {
+    background-color: white;
+    height: 5cm;
+    width: 20cm;
+    margin: 5px;
+    margin-top: 0;
+  
+    padding-top: 1px;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    border: dotted black ;
+    border-width: 1px;
+    
+}
+.p3 {
+    border: dotted black;
+    border-width: 2px;
+float: left;
+}

@@ -1,0 +1,26 @@
+body {background-color: rgb(109, 113, 185);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#page {
+    background-color: white;
+width: 90%;
+height: 40cm;
+margin: auto;}
+.awesome {
+   
+  height: 4cm;
+  background-color: white
+  
+}
+.tofb {
+    
+    width: 70%;
+    margin-left: 1cm;
+}
+.half2 {
+    width: 20%;
+ height:4cm ;
+    margin-right: 1cm;
+    float: right;
+    background-color: rgb(177, 212, 105);
+}

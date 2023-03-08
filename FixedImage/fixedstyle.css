@@ -1,0 +1,12 @@
+.side-container {
+    background-image: url(8.png);
+    width: 100px;
+    height: 55%;
+    padding: 15px;
+    border-right: 0px solid #ccc;
+    float: right;
+    position: fixed;
+    border: solid black;
+    border-width: 1px;
+    right: 0%;
+}

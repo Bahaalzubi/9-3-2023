@@ -1,0 +1,7 @@
+.a {
+ color: blue;
+}
+.a :link {color: green;}
+.b :link {color: green;}
+.list :link{color: red;}
+.c{color: blue;}
